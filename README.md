@@ -7,10 +7,6 @@ This project demonstrates hands-on Windows security log analysis and threat dete
 
 The investigation focused on identifying suspicious authentication activity, detecting successful remote access, analyzing malicious process execution, identifying network IOCs, and investigating suspicious user-account activity.
 
-This practical investigation was completed as part of my **SOC Analyst L1 hands-on training** using **TryHackMe's Windows Threat Detection 1** room.
-
----
-
 ## Investigation Objectives
 
 - Analyze Windows Security Event Logs
